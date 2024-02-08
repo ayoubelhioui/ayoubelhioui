@@ -3,7 +3,7 @@
 <img align="right" width = "400" height="250px" alt="" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoubelhioui&label=Profile%20views&color=0e75b6&style=flat" alt="ayoubelhioui" /> </p>
 
-- 💬 Ask me about **Java, Typescript, Spring Boot, Angular**
+- 💬 Ask me about **Java, Typescript, Spring Boot, Angular, React**
 
 - 📫 How to reach me **Elhioui001@gmail.com**
 <h3 align="left">Connect with me:</h3>
